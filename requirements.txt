@@ -1,0 +1,11 @@
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+aiofiles==23.2.1
+sqlmodel==0.0.14
+pydantic-settings==2.2.1
+python-multipart==0.0.9
+moviepy==1.0.3
+imageio-ffmpeg==0.4.9
+Pillow==10.3.0
+python-dotenv==1.0.1
+
